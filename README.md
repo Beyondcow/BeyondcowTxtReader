@@ -5,3 +5,7 @@
 
 如果您有好的建议，也可以提交 [feature request issue](https://github.com/Beyondcow/BeyondcowTxtReader/issues)。
 
+
+
+[Offical Website](https://www.beyondcow.com/Txtreader/)
+
