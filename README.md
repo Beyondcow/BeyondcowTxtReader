@@ -8,6 +8,8 @@
 
 [Offical Website](https://www.beyondcow.com/Txtreader/)
 
+[Mac App Store](https://itunes.apple.com/ca/app/gistpal/id602550970?mt=12/)
+
 # Updates
 
 ## 1.7.2 - Oct 19, 2018
