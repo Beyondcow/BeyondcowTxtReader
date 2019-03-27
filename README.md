@@ -6,7 +6,7 @@
 如果您有好的建议，也可以提交 [feature request issue](https://github.com/Beyondcow/BeyondcowTxtReader/issues)。
 
 
-[Offical Website](https://www.beyondcow.com/Txtreader/)
+[Offical Website](https://www.beyondcow.com/txtreader/)
 
 [Mac App Store](https://itunes.apple.com/ca/app/gistpal/id602550970?mt=12/)
 
