@@ -10,6 +10,8 @@
 
 [Mac App Store](https://itunes.apple.com/ca/app/gistpal/id602550970?mt=12/)
 
+[帮助页面](https://github.com/Beyondcow/BeyondcowTxtReader/blob/master/HELP.md)
+
 # Updates
 
 ## 1.8 - Mar 27, 2019 (Pending for Mac App Store Review)
