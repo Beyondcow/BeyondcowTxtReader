@@ -10,7 +10,7 @@
 
 [Mac App Store](https://apps.apple.com/ca/app/beyondcowtxtreader/id1344409961?mt=12/)
 
-[帮助页面](https://github.com/Beyondcow/BeyondcowTxtReader/blob/master/HELP.md)
+[Manual](https://beyondcow.com/txtreader/manual/)
 
 [Release Notes](https://www.beyondcow.com/txtreader/releasenotes)
 
