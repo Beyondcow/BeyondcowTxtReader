@@ -8,7 +8,7 @@
 
 [Offical Website](https://www.beyondcow.com/txtreader/)
 
-[Mac App Store](https://itunes.apple.com/ca/app/gistpal/id602550970?mt=12/)
+[Mac App Store](https://apps.apple.com/ca/app/beyondcowtxtreader/id1344409961?mt=12/)
 
 [帮助页面](https://github.com/Beyondcow/BeyondcowTxtReader/blob/master/HELP.md)
 
